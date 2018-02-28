@@ -1,0 +1,10 @@
+C:\Users\Bud\Desktop\capstone new\bin\Debug\netcoreapp2.0\capstone new.deps.json
+C:\Users\Bud\Desktop\capstone new\bin\Debug\netcoreapp2.0\capstone new.runtimeconfig.json
+C:\Users\Bud\Desktop\capstone new\bin\Debug\netcoreapp2.0\capstone new.runtimeconfig.dev.json
+C:\Users\Bud\Desktop\capstone new\bin\Debug\netcoreapp2.0\capstone new.dll
+C:\Users\Bud\Desktop\capstone new\bin\Debug\netcoreapp2.0\capstone new.pdb
+C:\Users\Bud\Desktop\capstone new\obj\Debug\netcoreapp2.0\capstone new.csproj.CoreCompileInputs.cache
+C:\Users\Bud\Desktop\capstone new\obj\Debug\netcoreapp2.0\capstone new.AssemblyInfoInputs.cache
+C:\Users\Bud\Desktop\capstone new\obj\Debug\netcoreapp2.0\capstone new.AssemblyInfo.cs
+C:\Users\Bud\Desktop\capstone new\obj\Debug\netcoreapp2.0\capstone new.dll
+C:\Users\Bud\Desktop\capstone new\obj\Debug\netcoreapp2.0\capstone new.pdb
